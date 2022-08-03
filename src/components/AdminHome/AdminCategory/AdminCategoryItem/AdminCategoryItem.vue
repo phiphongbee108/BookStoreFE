@@ -59,7 +59,7 @@
             <button
               type="button"
               class="btn-close"
-              data-bs-dismiss="modal"
+              data-dismiss="modal"
               aria-label="Close"
             />
           </div>
@@ -90,7 +90,7 @@
               <button
                 type="button"
                 class="btn btn-secondary"
-                data-bs-dismiss="modal"
+                data-dismiss="modal"
               >
                 Hủy
               </button>
@@ -98,7 +98,7 @@
                 v-if="!errors"
                 type="submit"
                 class="btn btn-primary"
-                data-bs-dismiss="modal"
+                data-dismiss="modal"
               >
                 Lưu
               </button>
