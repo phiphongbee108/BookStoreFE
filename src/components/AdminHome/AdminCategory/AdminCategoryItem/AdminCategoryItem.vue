@@ -58,7 +58,7 @@
             </h5>
             <button
               type="button"
-              class="btn-close"
+              class="close"
               data-dismiss="modal"
               aria-label="Close"
             >x</button>
