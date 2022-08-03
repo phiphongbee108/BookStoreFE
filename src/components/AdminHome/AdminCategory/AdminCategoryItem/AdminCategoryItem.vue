@@ -19,8 +19,8 @@
         v-if="categoryProps.isActive"
         ref="editBtn"
         class="btn btn-outline-info my-2"
-        data-bs-toggle="modal"
-        :data-bs-target="'#editModal-' + categoryProps.id"
+        data-toggle="modal"
+        :data-target="'#editModal-' + categoryProps.id"
       >
         Sửa
       </button>
