@@ -853,6 +853,9 @@ export default {
 
     clearModal() {
       this.book = {}
+      this.$refs.file.value = null
+      this.file = null
+      this.formData = new FormData()
     },
 
     async deleteBook(id) {
