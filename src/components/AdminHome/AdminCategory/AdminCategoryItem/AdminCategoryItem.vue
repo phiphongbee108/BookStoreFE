@@ -61,7 +61,7 @@
               class="btn-close"
               data-dismiss="modal"
               aria-label="Close"
-            />
+            >x</button>
           </div>
           <!-- Begin form -->
           <form
