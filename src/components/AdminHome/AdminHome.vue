@@ -11,6 +11,8 @@
     </p>
     <p class="text-center">
       Tên tài khoản: admin
+    </p>
+    <p class="text-center">
       Mật khẩu: 123123
     </p>
   </div>
