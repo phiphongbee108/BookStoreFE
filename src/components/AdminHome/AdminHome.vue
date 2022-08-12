@@ -6,6 +6,13 @@
     <p class="text-center">
       F5 sau khi đăng nhập để hiện thanh Menu
     </p>
+    <p class="text-center">
+      Dữ liệu từ server gửi về khá chậm, đợi 5-10s để tải
+    </p>
+    <p class="text-center">
+      Tên tài khoản: admin
+      Mật khẩu: 123123
+    </p>
   </div>
 </template>
 
